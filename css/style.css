@@ -1,0 +1,90 @@
+.logo {
+   margin: auto;
+}
+
+.body {
+    background-image: url('/images/eagle-background.png');
+    background-position-x: center;
+    text-align: center;
+    list-style: none;
+    margin: auto;
+}
+
+.videos {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    color: #333;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.photos {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    color: #333;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.card {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    color: lightblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    list-style: none;
+}
+
+.footer {
+    color: #fff;
+    background-color: #333;
+    padding: 60px 0px;
+}
+
+.info {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    color: #333;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.caterings {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    color: #333;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.navbar {
+    color: #fff;
+    height: 70px;
+}
+
+.navbar ul{
+    display: flex;
+}
+
+.navbar a {
+    color: #fff;
+    padding: 10px;
+    margin: 0 5px;
+}
+
+    .navbar a:hover {
+        border-bottom: 2px #fff solid;
+    }
+
+.navbar .flex {
+    justify-content: space-between;
+}
